@@ -2,6 +2,7 @@ import "./MainContent.css";
 import Photo from "./Photo";
 import Section from "./Section";
 import Info from "./Info";
+import Footer from "./Footer";
 
 function MainContent() {
     return(
@@ -9,6 +10,7 @@ function MainContent() {
             <Photo/>
             <Info/>
             <Section/>
+            <Footer/>
         </div>
     )
 }

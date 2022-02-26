@@ -1,3 +1,7 @@
+.sectionContainer {
+  width: 70%;
+  margin: auto;
+}
 .sectionHeading {
   color: #f5f5f5;
 }

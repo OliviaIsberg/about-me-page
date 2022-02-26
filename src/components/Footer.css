@@ -1,0 +1,22 @@
+.footerContainer {
+  height: 5rem;
+  background-color: #161619;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  text-align: center;
+}
+
+.socialsContainer > p {
+  font-size: 30px;
+  padding: 0 1rem;
+  margin: 0;
+}
+
+.socialsContainer {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
