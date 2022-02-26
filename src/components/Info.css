@@ -1,0 +1,25 @@
+.infoContainer {
+  margin: auto;
+  text-align: center;
+}
+.gitHub {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  justify-content: center;
+  margin: auto;
+  padding: 0.3rem 0;
+}
+
+.gitHub > a {
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+}
+
+.gitHub > p {
+  font-size: 30px;
+  margin: 0;
+  margin-right: 0.6rem;
+}
