@@ -3,7 +3,9 @@ import MainContent from "./MainContent";
 
 function Layout() {
     return(
-        <MainContent/>
+        <div className="container">
+            <MainContent/>
+        </div>
     )
 }
 

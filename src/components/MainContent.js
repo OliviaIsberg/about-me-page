@@ -1,8 +1,11 @@
-import "./MainContent.css"
+import "./MainContent.css";
+import Photo from "./Photo";
 
 function MainContent() {
     return(
-        <div>hej</div>
+        <div className="MainContentContainer">
+            <Photo/>
+        </div>
     )
 }
 
